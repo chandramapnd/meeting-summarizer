@@ -1,3 +1,7 @@
+##  MEETING SUMMARIZER VIDEO LINK : https://drive.google.com/drive/folders/1m3ObgTxKGJQTv1FyJrEBsX5ArpsFAqsz
+
+
+
 # Meeting Summarizer
 
 An AI-powered Meeting Summarizer that converts meeting audio into a text transcript and generates an action-oriented summary using a Large Language Model (LLM).
